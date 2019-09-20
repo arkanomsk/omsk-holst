@@ -1,0 +1,2 @@
+# omsk-holst
+GitHub Pages
